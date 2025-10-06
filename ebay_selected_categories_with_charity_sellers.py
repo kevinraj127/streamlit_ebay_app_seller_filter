@@ -81,6 +81,7 @@ def is_charity_seller(seller_username):
         "habitat", 
         "habitatrestore",
         "habitatforhumanity",
+        "nonprofit",
         "svdp", 
         "stvincentdepaul", 
         "vincentdepaul",
