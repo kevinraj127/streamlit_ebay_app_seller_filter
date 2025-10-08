@@ -76,6 +76,7 @@ def is_charity_seller(seller_username):
     # Common charity store names to look for
     charity_keywords = [
         "goodwill",
+        "shopsastores",
         "salvationarmy", 
         "salvation_army",
         "habitat", 
