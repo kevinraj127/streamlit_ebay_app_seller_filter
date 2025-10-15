@@ -324,7 +324,6 @@ if search_clicked:
         elif selected_category == "Tech Accessories":
             query = f'"{search_term}" -(broken,defective,not working,for parts, empty box)'
         else:
-            #query = f'"{search_term}"'
             query = search_term
 
         # Build filters
