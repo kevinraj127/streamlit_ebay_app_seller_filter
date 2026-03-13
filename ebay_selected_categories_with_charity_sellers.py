@@ -220,7 +220,8 @@ category_options = {
     "Music CDs": "176984",
     "Music Cassettes": "176983",
     "Sporting Goods": "888",
-    "Video Games & Consoles": "1249"
+    "Video Games & Consoles": "1249",
+    "Vinyl Records": "176985"
 }
 
 # Use loaded values if available, otherwise use defaults
