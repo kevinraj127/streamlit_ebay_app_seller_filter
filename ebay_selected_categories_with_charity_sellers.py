@@ -248,7 +248,7 @@ seller_type_filter = st.selectbox(
 
 seller_rating_filter = st.multiselect(
     "Filter by seller rating (select multiple or leave empty for all)",
-    ["Elite", "Excellent", "Very Good", "Good"],
+    ["Elite", "Excellent", "Very Good", "Good", "Inexperienced"],
     help=(
         """
         Elite: ≥5000/99% 
