@@ -215,6 +215,7 @@ category_options = {
     "Furniture": "3197",
     "Hats": "52365",
     "Headphones": "112529",
+    "Manga": "33346",
     "Men's Clothing": "1059",
     "Men's Shoes": "93427",
     "Music CDs": "176984",
